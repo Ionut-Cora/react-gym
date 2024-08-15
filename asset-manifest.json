@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-gym/static/css/main.bd869bd4.css",
+    "main.js": "/react-gym/static/js/main.3e0c05de.js",
+    "static/js/453.7fd440f8.chunk.js": "/react-gym/static/js/453.7fd440f8.chunk.js",
+    "static/media/train-section-img.jpg": "/react-gym/static/media/train-section-img.f67ee2f2c2ae38906f0e.jpg",
+    "static/media/hero-background-image.jpg": "/react-gym/static/media/hero-background-image.32dc78321f9fd990e10e.jpg",
+    "static/media/join-section-img.jpg": "/react-gym/static/media/join-section-img.0084a588e4d150af4974.jpg",
+    "static/media/about-img.jpg": "/react-gym/static/media/about-img.2f2c301f6ecc467c9698.jpg",
+    "index.html": "/react-gym/index.html",
+    "main.bd869bd4.css.map": "/react-gym/static/css/main.bd869bd4.css.map",
+    "main.3e0c05de.js.map": "/react-gym/static/js/main.3e0c05de.js.map",
+    "453.7fd440f8.chunk.js.map": "/react-gym/static/js/453.7fd440f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd869bd4.css",
+    "static/js/main.3e0c05de.js"
+  ]
+}
