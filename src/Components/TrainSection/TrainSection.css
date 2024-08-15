@@ -1,0 +1,19 @@
+.train-section {
+    background-image: url(../../Assets/Images/train-section-img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.train-section .bg-shape {
+    width: 50%;
+    background-color: var(--primary-color);
+    background-size: cover;
+    bottom: 0;
+    top: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .train-section .bg-shape {
+        width: 100%;
+    }
+}

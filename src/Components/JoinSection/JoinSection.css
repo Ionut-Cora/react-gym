@@ -1,0 +1,6 @@
+.join-section {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.6), rgba(5, 10, 35, 0.6)), url(../../Assets/Images/join-section-img.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
