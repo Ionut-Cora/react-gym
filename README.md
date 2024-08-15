@@ -1,3 +1,19 @@
+# React GYM website
+
+## View live website: https://ionut-cora.github.io/react-gym/
+
+<img src="react gym website.jpg" alt="react gym website" />
+
+## For this website I used:
+- [React JS](https://react.dev/) - JavaScript library
+- [React Bootstrap](https://react-bootstrap.netlify.app/) - Front-End Framework for React
+- [Framer Motion](https://www.framer.com/motion/) - Animation library for React.
+- [Unsplash](https://unsplash.com/) - Free images
+- [Google Fonts](https://fonts.google.com/) - Roboto and Archivo fonts
+
+## This GYM website is a landing page custom demo website created with [React JS](https://react.dev/), designed with [React Bootstrap](https://react-bootstrap.netlify.app/) and animated with [Framer Motion](https://www.framer.com/motion/).
+The website contains more than 10 components: Navbar, Footer, Custom Button and more.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
